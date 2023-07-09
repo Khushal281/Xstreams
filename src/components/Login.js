@@ -59,7 +59,7 @@ return(
                 page && <div className="form-check">
                 <input className="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
                 <label className="form-check-label text-white" htmlFor="flexCheckDefault">
-                  Remember Me
+                  Remember Me!
                 </label>
               </div>
               }
